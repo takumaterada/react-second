@@ -1,6 +1,6 @@
 import React from "react";
 
-export const CompteleTodos = (props) => {
+export const CompleteTodos = (props) => {
   const { todos, onClickBack } = props;
   return (
     <div className="complete-area">
